@@ -6,8 +6,8 @@
 
 #include "common.h"
 
-using DATA_MEMBER = std::unprdered_map<string, string>;
-using FUNCTION_MEMBER = std::unordered_map<string, string>;
+using DATA_MEMBER = std::unprdered_map<std::string, std::string>;
+using FUNCTION_MEMBER = std::unordered_map<std::string, std::string>;
 
 class Template
 {
