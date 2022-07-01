@@ -25,10 +25,7 @@ git clone https://github.com/Conghuajidaner/Cpp-Template-Project.git
 cd Cpp-Template-Project
 mkdir <project_name>
 cd <project_name>
-./build.sh [-t platform] [-b buildtype] # 可能并不需要跨平台
+./build.sh
 ```
 
-### Windows
-```shell
-```
-
+*最后应该是一个命令行工具或者gui*
