@@ -1,0 +1,52 @@
+cout << "********************************"<< endl;
+cout << "*         0. 添加用户"<< endl;
+cout << "*         1. 删除用户"<< endl;
+cout << "*         2. 排序"<< endl;
+cout << "********************************" << endl;
+while (true) {
+char op; cin >> op;
+switch(op) {
+case '0': {} break;
+case '1': {} break;
+case '2': {} break;
+default:break;
+} }
+cout << "********************************"<< endl;
+cout << "*         0. 添加用户"<< endl;
+cout << "*         1. 删除用户"<< endl;
+cout << "*         2. 排序"<< endl;
+cout << "********************************" << endl;
+while (true) {
+char op; cin >> op;
+switch(op) {
+case '0': {} break;
+case '1': {} break;
+case '2': {} break;
+default:break;
+} }
+cout << "********************************"<< endl;
+cout << "*         0. 添加用户"<< endl;
+cout << "*         1. 删除用户"<< endl;
+cout << "*         2. 排序"<< endl;
+cout << "********************************" << endl;
+while (true) {
+char op; cin >> op;
+switch(op) {
+case '0': {} break;
+case '1': {} break;
+case '2': {} break;
+default:break;
+} }
+cout << "********************************"<< endl;
+cout << "*         0. 添加用户"<< endl;
+cout << "*         1. 删除用户"<< endl;
+cout << "*         2. 排序"<< endl;
+cout << "********************************" << endl;
+while (true) {
+char op; cin >> op;
+switch(op) {
+case '0': {} break;
+case '1': {} break;
+case '2': {} break;
+default:break;
+} }

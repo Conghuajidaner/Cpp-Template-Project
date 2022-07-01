@@ -1,0 +1,7 @@
+class test {
+public:
+void get_name();
+void set_name();
+private:
+name;
+};
